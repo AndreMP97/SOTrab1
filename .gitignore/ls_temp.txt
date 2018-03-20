@@ -1,0 +1,9 @@
+total 0
+srwxr-xr-x 1 up201505089 alunos  0 Mar 20 16:08 atom-1.24.0-up201505089.sock
+drwx------ 2 up201505089 alunos 40 Mar 20 16:08 Atom Crashes
+drwx------ 2 up201505089 alunos 40 Mar 20 16:09 mozilla_up2015050890
+drwx------ 2 up201505089 alunos 60 Mar 20 16:05 ssh-LmJRZhtZ0IDB
+drwx------ 2 up201505089 alunos 60 Mar 20 16:05 ssh-Qqvr1br92Mkh
+drwx------ 3 root        root   60 Mar 20 10:18 systemd-private-ee3778a9d08f4770b98ba2d8a2fe76fb-httpd.service-ndQFre
+drwx------ 3 root        root   60 Mar 20 10:18 systemd-private-ee3778a9d08f4770b98ba2d8a2fe76fb-mysqld.service-DThaqI
+drwx------ 3 root        root   60 Mar 20 10:18 systemd-private-ee3778a9d08f4770b98ba2d8a2fe76fb-rtkit-daemon.service-gdwq8K
